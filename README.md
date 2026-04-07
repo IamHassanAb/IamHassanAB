@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHassanAb&show_icons=true&theme=radical)
+[![MY GitHub stats](https://github-readme-stats.vercel.app/api?username=IamHassanAb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IamHassanAb/IamHassanAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
