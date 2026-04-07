@@ -2,6 +2,7 @@
 
 I am Hassan a software systems engineer based i
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=IamHassan&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Hassan)](https://git.io/typing-svg)
 <!--
 **IamHassanAb/IamHassanAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
