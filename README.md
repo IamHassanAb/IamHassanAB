@@ -3,6 +3,11 @@
 I am Hassan a software systems engineer based i
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=IamHassan&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Hassan)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamHassanAb&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 <!--
 **IamHassanAb/IamHassanAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
