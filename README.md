@@ -1,8 +1,11 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋 I am Hassan - Software Engineer<br> 
+<!--   <img align='right' src='https://programming-gifs.cyclic.app/' widht=300 height=300 alt='samadpls/Programming-Gifs'> -->
+</h1>
 
-I am Hassan a software systems engineer.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I+am+Hassan)](https://git.io/typing-svg)
+<p align="center">
+I'm a software engineer who builds across the full stack — microservices, real-time data pipelines, cloud ETL, and AI-powered systems. I've worked on financial data infrastructure at scale, built Kafka streaming platforms, and worked on RAG systems with FastAPI and vector databases. I don't pick a lane. I go where the problem is.
+</p>
 
 
 <p align="center">
