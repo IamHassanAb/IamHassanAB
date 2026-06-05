@@ -61,12 +61,12 @@ End-to-end streaming pipeline over Wikipedia's live edit stream. Raw events → 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IamHassanAb&theme=radical&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamHassanAb&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamHassanAb&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamHassanAb&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamHassanAb&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamHassanAb&theme=radical&utcOffset=5" />
 </p>
 ---
 
