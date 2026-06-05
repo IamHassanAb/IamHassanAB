@@ -60,16 +60,14 @@ End-to-end streaming pipeline over Wikipedia's live edit stream. Raw events → 
 
 ### 📊 Stats
 
-<!--
-Source - https://stackoverflow.com/a/70074042
-Posted by Kameron, modified by community. See post 'Timeline' for change history
-Retrieved 2026-06-05, License - CC BY-SA 4.0
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamHassanAB&theme=radical&hide_border=true" />
+</p>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=IamHassanAB&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamHassanAB&theme=radical&layout=compact" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamHassanAB&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamHassanAB&theme=radical" />
+</p>
 
 ---
 
