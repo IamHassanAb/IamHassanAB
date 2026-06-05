@@ -5,10 +5,11 @@
 
 <p align="center">
 I work across backend engineering, data systems, distributed architectures, and AI applications. I enjoy building things end-to-end, exploring how systems work under the hood, and sharing what I learn along the way.
-
-Build → Break → Understand → Share
 </p>
 
+<p align="centre">
+Build → Break → Understand → Share
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamHassanAb&theme=radical&hide_border=true" alt="GitHub Streak" />
