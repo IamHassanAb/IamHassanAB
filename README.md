@@ -12,7 +12,7 @@
 
 I build systems at the intersection of **data and software** — APIs, pipelines, backend services, and the infrastructure connecting them.
 
-At **Teresol**, I work across backend engineering and data infrastructure, shipping production systems in Python and Java. Outside of work I explore data engineering, distributed systems, and AI applications — always with an interest in going beneath the surface to understand how things actually work, not just getting them to run.
+I work across backend engineering, web applications and data infrastructure, using Python and Java. Outside of work I explore data engineering, distributed systems, and AI applications — always with an interest in going beneath the surface to understand how things actually work, not just getting them to run.
 
 What draws me in: systems where **scale, reliability, and data quality** become the real engineering challenges.
 
