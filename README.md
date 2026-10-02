@@ -20,9 +20,9 @@ What draws me in: systems where **scale, reliability, and data quality** become 
 
 ### 🛠 What I'm building
 
-**[WikiStream Analytics](https://github.com/IamHassanAb/wikistream-analytics)**  
-End-to-end streaming pipeline over Wikipedia's live edit stream. Raw events → Kafka → PySpark transformations → star schema modeled in Amazon Athena → dashboards in Metabase. Designed, built, and operated solo — to understand how a streaming system behaves from raw event to insight.  
-`Python` `Kafka` `PySpark` `Airflow` `AWS Athena` `Metabase`
+**[WikiStream Analytics](https://github.com/IamHassanAb/wiki-pulse-analytics)**
+End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → partitioned Parquet in Amazon S3 → star schema modeled with dbt in Amazon Athena → dashboards in Metabase. Designed, built, and operated solo — to understand how a streaming system behaves from raw event to insight.
+`Python` `AWS S3` `AWS Athena` `dbt` `Metabase`
 
 ---
 
