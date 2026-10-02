@@ -21,8 +21,17 @@ What draws me in: systems where **scale, reliability, and data quality** become 
 ### 🛠 What I'm building
 
 **[WikiStream Analytics](https://github.com/IamHassanAb/wiki-pulse-analytics)**
-End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → partitioned Parquet in Amazon S3 → star schema modeled with dbt in Amazon Athena → dashboards in Metabase. Designed, built, and operated solo — to understand how a streaming system behaves from raw event to insight.
+End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → partitioned Parquet in Amazon S3 → star schema modeled with dbt in Amazon Athena → dashboards in Metabase. Designed, built, and operated solo — including a documented refactor from a single script into a layered design, and a written failure-mode analysis.
 `Python` `AWS S3` `AWS Athena` `dbt` `Metabase`
+
+**Balagh — RAG Platform**
+A retrieval-augmented-generation platform split into separate ingestion, embedding, and generation services — an async pipeline for pulling in and indexing content, background workers coordinating fan-out, and a swappable design for chunking/embedding strategies.
+[content-ingestion-service](https://github.com/IamHassanAb/content-ingestion-service) · [embedding-index-service](https://github.com/IamHassanAb/embedding-index-service)
+`Python` `FastAPI` `Celery` `RabbitMQ` `Redis` `MongoDB`
+
+**[Adaptive RAG Router](https://github.com/IamHassanAb/chatbot_utility_service)**
+A chatbot pipeline that classifies each question, routes simple ones to a cheaper path, asks for clarification when a question is too vague to answer, and checks its own answers' citations against the source index before replying. Demo project.
+`FastAPI` `FAISS` `LangChain`
 
 ---
 
@@ -55,7 +64,6 @@ End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → part
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 
-
 ---
 
 ### 📊 Stats
@@ -75,10 +83,10 @@ End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → part
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamHassanAb&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamHassanAb&theme=radical" />
 </p>
+
 ---
 
 ### 🔗 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.hassanab.com-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio.hassanab.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Abbas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamhassanab/)
-<!--- [![Freelancer](https://img.shields.io/badge/Freelancer-Available-29B2FE?style=flat-square&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/YOUR_FREELANCER_HANDLE) --->
