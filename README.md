@@ -25,10 +25,8 @@ End-to-end pipeline over Wikipedia's live edit stream. Raw events (SSE) → part
 `Python` `AWS S3` `AWS Athena` `dbt` `Metabase`
 
 **Balagh — RAG Platform**
-A retrieval-augmented-generation platform split into separate ingestion, embedding, and generation services — an async pipeline for pulling in and indexing content, background workers coordinating fan-out, and a swappable design for chunking/embedding strategies.
-- [content-ingestion-service](https://github.com/IamHassanAb/content-ingestion-service) Ingestion service for Balagh — a RAG platform. Pulls in and transforms content, syncs it to the vector store.
-- [embedding-index-service](https://github.com/IamHassanAb/embedding-index-service) Embedding service for Balagh — a RAG platform. Generates embeddings, stores them in a vector DB, exposes a /embed endpoint.
-
+Ingests and translates scholarly lecture content at scale, AI-tags it automatically, and makes it retrievable through a RAG pipeline — split into ingestion, embedding, and generation services.
+[content-ingestion-service](https://github.com/IamHassanAb/content-ingestion-service) · [embedding-index-service](https://github.com/IamHassanAb/embedding-index-service)
 `Python` `FastAPI` `Celery` `RabbitMQ` `Redis` `MongoDB`
 
 **[Adaptive RAG Router](https://github.com/IamHassanAb/chatbot_utility_service)**
