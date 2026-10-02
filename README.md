@@ -35,6 +35,13 @@ A chatbot pipeline that classifies each question, routes simple ones to a cheape
 
 ---
 
+### 🧪 Experiments
+
+**[pospro-easy-flow](https://github.com/IamHassanAb/pospro-easy-flow)**
+Tested Lovable by prompting a full POS app into existence in an afternoon — AI tool experiment, not hand-engineered.
+
+---
+
 ### ⚙️ Stack
 
 **Backend & APIs**
